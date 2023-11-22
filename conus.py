@@ -13,3 +13,4 @@ class Conus:
 conus = Conus(5, 4)
 print(conus.area())   
 print("hello world")
+print("qwerty")
